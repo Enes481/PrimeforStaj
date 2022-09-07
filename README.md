@@ -68,3 +68,5 @@ their accounts are blocked. Admin can unblock users' accounts from this panel. T
 ![display image](https://github.com/Enes481/PrimeforStaj/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(140).png)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![display image](https://github.com/Enes481/PrimeforStaj/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(141).png)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+![display image](https://github.com/Enes481/PrimeforStaj/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(143).png)
