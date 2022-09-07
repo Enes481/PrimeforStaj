@@ -1,0 +1,22 @@
+.updatecategory{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 90px;
+    flex-wrap: wrap;
+}
+
+
+.updatecategorylabe{
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.updatecategoryinput{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

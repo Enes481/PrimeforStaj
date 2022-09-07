@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EntityLayer.Concrete
+{
+    public class Offer
+    {
+        [Key]
+        public int OfferId { get; set; }
+        public int? ProductId { get; set; }
+        public int? UserId { get; set; }
+        public User User { get; set; }
+        public Product? Product { get; set; }
+        public bool IsApproved { get; set; }
+        public int OfferedPrice { get; set; }
+
+
+
+
+    }
+}

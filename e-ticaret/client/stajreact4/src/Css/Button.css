@@ -1,0 +1,16 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 70px;
+    height: 45px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+  }
