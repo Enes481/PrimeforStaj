@@ -61,6 +61,6 @@ their accounts are blocked. Admin can unblock users' accounts from this panel. T
 ![display image](https://github.com/payologllc/primefor-2022-staj-Enes481/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(135).png)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-![display image](https://github.com/payologllc/primefor-2022-staj-Enes481/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(138).png)
+![display image](https://github.com/Enes481/PrimeforStaj/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(134).png)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![display image](https://github.com/payologllc/primefor-2022-staj-Enes481/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(139).png)
